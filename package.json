@@ -1,0 +1,31 @@
+{
+  "author": "zhangmingfeng",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "egg utils plugin",
+  "eggPlugin": {
+    "name": "utils"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "files": [
+    "app",
+    "config",
+    "agent.js",
+    "app.js"
+  ],
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "utils"
+  ],
+  "license": "MIT",
+  "name": "egg-easy-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmingfeng/egg-easy-utils.git"
+  },
+  "version": "1.0.1"
+}
